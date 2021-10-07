@@ -13,7 +13,6 @@ github_username:  swirlTA
 # Build settings
 rempte_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
