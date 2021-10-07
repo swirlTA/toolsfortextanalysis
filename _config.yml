@@ -11,9 +11,9 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 github_username:  swirlTA
 
 # Build settings
-rempte_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
