@@ -66,4 +66,4 @@ install_course_github(
 
 ***Try it out… and enjoy!***
 
-![swirl screenshot](/pictures/swirl_intro.png)
+![swirl screenshot](../pictures/swirl_intro.png)
