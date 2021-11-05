@@ -7,8 +7,8 @@
 title: Tools for the computational analysis of language and text
 description: An interactive R course
 baseurl: "/toolsfortextanalysis" # the subpath of your site, e.g. /blog
-url: https://swirlta.github.io
-#url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+#url: https://swirlta.github.io
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  swirlTA
 
 # Build settings
