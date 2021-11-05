@@ -5,4 +5,4 @@ permalink: /video/
 ---
 
 Just as a quick reminder to what is posted on the main page of this website: The videos are going to be renewed soon!
-[Here](https://tube.switch.ch/channels/f6786b32) you can find the course videos
+[Here](https://tube.switch.ch/channels/thxaG9Hjrj) you can find the current version of the course videos.
