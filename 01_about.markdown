@@ -38,7 +38,7 @@ In this course we're going to learn how to use the R programming language for te
 
 For this course you will also need to install swirl. It is an R library for teaching and learning R programming. It is interactive and very easy to use. Once you have R and RStudio installed and running in your computer, you can intall swirl() easily. Go to [swirl's website](https://swirlstats.com/students.html) and follow the steps that are listed there.
 
-Once installed, the console in R will start "talking to you" – follow the instructions there. It will ask you for a name and it will offer you some courses already. The course you want to attend ist called "Tools for text analysis". So simply follow the instructions to download and follow the course!
+Once installed, the console in R will start "talking to you" – follow the instructions there. It will ask you for a name and it will offer you some courses already. The course you want to attend ist called "Tools for text analysis". You will find instructions on how to download this course at the [R-Intro](https://swirlta.github.io/toolsfortextanalysis/r-intro/) section of this website. 
 
 Go to the [swirl help page](https://swirlstats.com/help.html) if you need more information or check out the [course forum](https://github.com/swirlTA/Tools_for_text_analysis/issues).
 
