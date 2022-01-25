@@ -40,12 +40,12 @@ For this course you will also need to install swirl. It is an R library for teac
 
 Once installed, the console in R will start "talking to you" – follow the instructions there. It will ask you for a name and it will offer you some courses already. The course you want to attend ist called "Tools for text analysis". You will find instructions on how to download this course at the [R-Intro](https://swirlta.github.io/toolsfortextanalysis/r-intro/) section of this website. 
 
-Go to the [swirl help page](https://swirlstats.com/help.html) if you need more information or check out the [course forum](https://github.com/swirlTA/Tools_for_text_analysis/issues).
+Go to the [swirl help page](https://swirlstats.com/help.html) if you need more information or check out the [course forum](https://github.com/swirlTA/toolsfortextanalysis/issues).
 
 
 ### Course forum
 
-You can post questions or difficulties you have in this [forum](https://github.com/swirlTA/toolsfortextanalysis/issues/3). Some general difficulties and issues have already been discussed so you might find the solution to your personal problem there. Keep in mind that this is a public GitHub repository so restrain from sharing personal information (like private email adresses).  
+You can post questions or difficulties you have in this [course forum](https://github.com/swirlTA/toolsfortextanalysis/issues). Some general difficulties and issues have already been discussed so you might find the solution to your personal problem there. Keep in mind that this is a public GitHub repository so restrain from sharing personal information (like private email adresses).  
 
 
 ### Downloads
