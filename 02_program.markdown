@@ -9,7 +9,7 @@ If you have no notions of R Programming, I recommend that you start with the swi
 
 |      |Block                              |swirl lesson                                                    |videos                                                |
 |------|-----------------------------------|----------------------------------------------------------------|------------------------------------------------------|
-|1     |Introduction to R                  |(not yet available) (logical expressions)                       |1, Installing R and Rstudio                           |
+|1     |Introduction to R                  |(not yet available) (logical expressions)                       |1, Installing R and Rstudio, 1.1 Using R scripts                           |
 |      |                                   |(not yet available) (vectors, lists, dataframes and Nas(1))     |2, What is R?                                         |
 |      |                                   |(not yet available) (vectors, lists, dataframes and Nas(2))     |7, Working with scripts and swirl at the same time    |
 |2     |Cleaning and transforming text data|Lesson 1 (Text encoding)                                        |3, Text format & encoding                             |
