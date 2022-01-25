@@ -3,7 +3,7 @@ layout: page
 title: Program
 permalink: /program/
 ---
-The classes in the swirl course and the acompanying videos are grouped into thematic blocks that can be followed independently, depending on your preferences. Here you can see which the lessons and videos that belong into each block.
+The classes in the swirl course and the corresponding videos are grouped into thematic blocks that can be followed independently, depending on your preferences. Here you can see which lessons and videos belong into each block.
 At the bottom of the page you can find the order in which the course was first taught – if you're interested in going through all the content, this can be a useful model of how to do so.
 If you have no notions of R Programming, I recommend that you start with the swirl preloaded course "R Programming".
 
