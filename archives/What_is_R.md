@@ -1,7 +1,3 @@
----
-layout: post
-title: What is R
----
 
 What is R
 ---------
